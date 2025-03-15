@@ -1,6 +1,12 @@
 # Danyil Danilian
 
 Welcome to my GitHub profile! I'm passionate about technology, programming, and continuous learning. A bit about me:
+
+
+
+
+![Demo](backGit.gif)
+
 ---
 ## 🌱 **Currently Learning**
 - Currently studying **Computer Science** at university, deepening my knowledge in algorithms, data structures, and system design.
@@ -16,4 +22,11 @@ Welcome to my GitHub profile! I'm passionate about technology, programming, and 
 - **LinkedIn**: [https://github.com/Dragonav4?tab=repositories](https://github.com/Dragonav4?tab=repositories)
 ---
 ## 🌎 **Me Around the Web**
-- **GitHub**: ([https://github.com/yourgithub](https://github.com/Dragonav4?tab=repositories))
+- **GitHub**: [https://github.com/Dragonav4](https://github.com/Dragonav4)
+---
+- **Follow me**
+  <p align="left">
+  <a href="https://github.com/Dragonav4">
+    <img src="https://img.shields.io/badge/GitHub-Follow-brightgreen?style=for-the-badge&logo=github">
+  </a>
+</p>
