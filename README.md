@@ -1,16 +1,19 @@
-## Hi there 👋
+# Danyil Danilian
 
-<!--
-**Dragonav4/Dragonav4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile! I'm passionate about technology, programming, and continuous learning. A bit about me:
+---
+## 🌱 **Currently Learning**
+- Currently studying **Computer Science** at university, deepening my knowledge in algorithms, data structures, and system design.
+- Continuously learning new technologies and improving my development skills through personal projects and hands-on experience.
+- Exploring the realms of **Business applications** and **Bot writing**.
+- Diving deeper into **Java** practices and tools like **Spring**
+---
+## 🔧 **Projects and Contributions**
+- Working on pet projects to enhance **developer productivity** with custom tools and extensions.
+---
+## 📬 **Reaching Me**
+- **Email**: [daniliandan100500@gmail.com](mailto:daniliandan@105000)
+- **LinkedIn**: [https://github.com/Dragonav4?tab=repositories](https://github.com/Dragonav4?tab=repositories)
+---
+## 🌎 **Me Around the Web**
+- **GitHub**: ([https://github.com/yourgithub](https://github.com/Dragonav4?tab=repositories))
