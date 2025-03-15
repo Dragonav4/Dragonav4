@@ -1,11 +1,12 @@
 # Danyil Danilian
 
-Welcome to my GitHub profile! I'm passionate about technology, programming, and continuous learning. A bit about me:
+# Welcome to my GitHub profile! I'm passionate about technology, programming, and continuous learning. A bit about me:
 
 
 
 
-![Demo](backGit.gif)
+[![Demo](backGit.gif)](https://github.com/Dragonav4/PacmanGame)
+
 
 ---
 ## 🌱 **Currently Learning**
