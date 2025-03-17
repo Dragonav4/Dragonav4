@@ -2,12 +2,6 @@
 
 # Welcome to my GitHub profile! I'm passionate about technology, programming, and continuous learning. A bit about me:
 
-
-
-
-[![Demo](backGit.gif)](https://github.com/Dragonav4/PacmanGame)
-
-
 ---
 ## 🌱 **Currently Learning**
 - Currently studying **Computer Science** at university, deepening my knowledge in algorithms, data structures, and system design.
