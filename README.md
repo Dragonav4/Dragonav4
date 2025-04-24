@@ -17,7 +17,7 @@
 - **LinkedIn**: [https://github.com/Dragonav4?tab=repositories](https://github.com/Dragonav4?tab=repositories)
 ---
 ## 🌎 **Me Around the Web**
-- **GitHub**: [https://github.com/Dragonav4](https://github.com/Dragonav4)
+
 ---
 - **Follow me**
   <p align="left">
