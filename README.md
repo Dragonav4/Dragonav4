@@ -21,7 +21,7 @@
 ---
 - **Follow me**
   <p align="left">
-  <a href="https://github.com/Dragonav4">
+  <a href="https://www.linkedin.com/in/danyil-danilian-28a709356/">
     <img src="https://img.shields.io/badge/GitHub-Follow-brightgreen?style=for-the-badge&logo=github">
   </a>
 </p>
