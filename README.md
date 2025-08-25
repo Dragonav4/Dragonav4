@@ -14,14 +14,5 @@
 ---
 ## 📬 **Reaching Me**
 - **Email**: [daniliandan100500@gmail.com](mailto:daniliandan@105000)
-- **LinkedIn**: [https://github.com/Dragonav4?tab=repositories](https://github.com/Dragonav4?tab=repositories)
+- **LinkedIn**: [https://www.linkedin.com/in/danyil-danilian-28a709356/](https://www.linkedin.com/in/danyil-danilian-28a709356/)
 ---
-## 🌎 **Me Around the Web**
-
----
-- **Follow me**
-  <p align="left">
-  <a href="https://www.linkedin.com/in/danyil-danilian-28a709356/">
-    <img src="https://img.shields.io/badge/GitHub-Follow-brightgreen?style=for-the-badge&logo=github">
-  </a>
-</p>
