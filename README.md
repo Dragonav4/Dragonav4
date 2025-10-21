@@ -5,9 +5,12 @@
 ---
 ## 🌱 **Currently Learning**
 - Currently studying **Computer Science** at university, deepening my knowledge in algorithms, data structures, and system design.
-- Continuously learning new technologies and improving my development skills through personal projects and hands-on experience.
+-	Diving deeper into clean architecture, microservices, and domain-driven design.
+- Expanding into frontend development — learning JavaScript, TypeScript, React, and Next.js.
+- Exploring integration patterns between .NET APIs and React frontends.
+- Practicing DevOps fundamentals: Docker, CI/CD, and GitHub Actions.
 - Exploring the realms of **Business applications** and **Bot writing**.
-- Diving deeper into **Java** practices and tools like **Spring**
+
 ---
 ## 🔧 **Projects and Contributions**
 - Working on pet projects to enhance **developer productivity** with custom tools and extensions.
